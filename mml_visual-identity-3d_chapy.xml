@@ -1,4 +1,4 @@
-<m-store title="Nakamoto Test" shortDescription="Nakamoto Matrix" endUnixTimeStamp="1745996400" whitelistSats="10000" whitelistItem="VIP Pass" depositBTCAddress="35UR68XPKRHLDW4nXheGVEYAfSPzBvnVvV" sx="1.25" sz="1.25" >
+<m-store title="Chapy" shortDescription="Chapy Design" endUnixTimeStamp="1745996400" whitelistSats="10000" whitelistItem="VIP Pass" depositBTCAddress="35UR68XPKRHLDW4nXheGVEYAfSPzBvnVvV" sx="1.25" sz="1.25" >
   <m-group class="monitorALL" sx="1.4" sy="1.4" x="1" y="3" z="-8">
 <!-- COMPUTER MONITOR SCREEN -->
   <m-group sx=".75" sy=".75" y="4.95">
